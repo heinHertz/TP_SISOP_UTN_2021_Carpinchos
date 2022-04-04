@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "shared"
+		},
+		{
+			"path": "swamp"
+		},
+		{
+			"path": "memoria"
+		},
+		{
+			"path": "matelib"
+		},
+		{
+			"path": "kernel"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"proceso1.h": "c",
+			"shared_utils.h": "c",
+			"archivos.h": "c",
+			"swamp_config.h": "c",
+			"swamp.h": "c",
+			"list.h": "c",
+			"swap_memoria.h": "c",
+			"string.h": "c",
+			"swamp_mensajes.h": "c",
+			"tests.h": "c",
+			"server.h": "c",
+			"particiones.h": "c",
+			"memoria.h": "c",
+			"codigos_operacion.h": "c"
+		}
+	}
+}
